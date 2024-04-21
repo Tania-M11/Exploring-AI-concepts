@@ -1,4 +1,4 @@
-# Talento-Tech_IA
+![image](https://github.com/Tania-M11/Talento-Tech_IA/assets/127690151/7c6cad73-9b39-40af-8ab4-577edd06c10e)# Talento-Tech_IA
 
 **Artificial intelligence bootcamp activities** 🤖
 
@@ -37,3 +37,5 @@ Example of how to implement a neural network for classification with MLPClassifi
 - [YouTube - TensorFlow Tutorial](https://www.youtube.com/watch?v=NSpC45EcMVs)
 - [YouTube - Introduction to Keras](https://www.youtube.com/watch?v=j6eGHROLKP8)
 - [YouTube - Sklearn Tutorial](https://www.youtube.com/watch?v=DbwKbsCWPSg&t=7s)
+
+  *by Tania Cuastuza*

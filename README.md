@@ -1,4 +1,4 @@
-![image](https://github.com/Tania-M11/Talento-Tech_IA/assets/127690151/7c6cad73-9b39-40af-8ab4-577edd06c10e)# Talento-Tech_IA
+# Talento-Tech_IA
 
 **Artificial intelligence bootcamp activities** 🤖
 

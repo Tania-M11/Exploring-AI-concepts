@@ -31,14 +31,14 @@ Example of how to implement a neural network for classification with MLPClassifi
 -List of best-selling PlayStation 4 video games
    
 ## ⚫**Image Processing Fundamentals**
--Cat face detection
--Introduction to scikit-image
--Frameworks like OpenCV
+- Cat face detection
+- Introduction to scikit-image
+- Frameworks like OpenCV
 
 ## 🟢**Convolutional Neural Network**
--Convolution discrete in one dimension (1D)
--Numerical Example Of Discrete 2D Convolution
--handwritten Digit Recognition
+- Convolution discrete in one dimension (1D)
+- Numerical Example Of Discrete 2D Convolution
+- Handwritten Digit Recognition
 
 ## *PENDING TO GO UP* ▫
    

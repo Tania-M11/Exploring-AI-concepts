@@ -41,6 +41,7 @@ Example of how to implement a neural network for classification with MLPClassifi
 - Handwritten Digit Recognition
 
 ## *PENDING TO GO UP* ▫
+##
    
 ## ⚪ **Sources:**
 - [Redes Neuronales Convolucionales - Juan Barrios](https://www.juanbarrios.com/redes-neurales-convolucionales/)

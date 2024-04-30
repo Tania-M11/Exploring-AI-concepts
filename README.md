@@ -4,14 +4,14 @@
 
 In this repository, we find:
 
-## 🟤 **TensorFlow Playground** ▫
+## 🟤 **TensorFlow Playground** ⚠️
 We explore how tuning different hyperparameters affects the performance of a neural network. Specifically, we focus on the impact of increasing training layers and epochs, along with the application of L1 and L2 regularization techniques. 🌀
 
 ## 🟢 **Neural Network Programming**
 In this project, we will see three forms of neural network programming, using TensorFlow, Keras, and Scikit-learn. 🧠
 
-## 🔵 **Cats and Dogs Classifier** ▫
-This model uses a convolutional neural network (CNN) architecture to classify dog and cat images. 🐱🐶
+## 🔵 **Cats and Dogs Classifier** ⚠️
+Model to classify cats and dogs using a dataset🐱🐶
 
 ## 🔴 **Models of Neural Networks in Scikit-learn**
 *Library for deep learning projects: Sklearn, Keras*  
@@ -27,7 +27,7 @@ Example of how to implement a neural network for classification with MLPClassifi
 - Clothing Recognition
 - Handwritten Digits
 
-## 🟣**Training a dataset** ▫
+## 🟣**Training a dataset** ⚠️
 -List of best-selling PlayStation 4 video games
    
 ## ⚫**Image Processing Fundamentals**
@@ -40,8 +40,17 @@ Example of how to implement a neural network for classification with MLPClassifi
 - Numerical Example Of Discrete 2D Convolution
 - Handwritten Digit Recognition
 
-## *PENDING TO GO UP* ▫
-##
+## 🟠**Learning Activities**⚠️
+- Implementation of a CNN for the
+Fashion MNIST Apparel Recognition
+- CNN implementation for
+CIFAR 10 and CIFAR 100 image classification
+- CNN implementation for
+Classification of Images from a
+Downloaded Database
+
+## *PENDING TO GO UP* ⚠️
+
    
 ## ⚪ **Sources:**
 - [Redes Neuronales Convolucionales - Juan Barrios](https://www.juanbarrios.com/redes-neurales-convolucionales/)

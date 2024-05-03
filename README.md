@@ -49,7 +49,7 @@ CIFAR 10 and CIFAR 100 image classification
 Classification of Images from a
 Downloaded Database
 
-## 🟧**PROYECTOS**
+## 🟧**PROYECTOS**⚠️
 
 ## *PENDING TO GO UP* ⚠️
 

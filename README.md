@@ -40,7 +40,7 @@ Example of how to implement a neural network for classification with MLPClassifi
 - Numerical Example Of Discrete 2D Convolution
 - Handwritten Digit Recognition
 
-## 🟠**Learning Activities**⚠️
+## 🟠**Learning Activities**
 - Implementation of a CNN for the
 Fashion MNIST Apparel Recognition
 - CNN implementation for
@@ -48,6 +48,8 @@ CIFAR 10 and CIFAR 100 image classification
 - CNN implementation for
 Classification of Images from a
 Downloaded Database
+
+## 🟧**PROYECTOS**
 
 ## *PENDING TO GO UP* ⚠️
 

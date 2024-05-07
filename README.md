@@ -49,6 +49,13 @@ CIFAR 10 and CIFAR 100 image classification
 Classification of Images from a
 Downloaded Database
 
+## 🔵**Introduction to NLP**
+- Introduction to NLTK
+
+## 🟢**Neural Networks in NLP**
+- Movie Reviews
+- Keras in NLP
+
 ## 🟧**PROYECTOS**⚠️
 
 ## *PENDING TO GO UP* ⚠️

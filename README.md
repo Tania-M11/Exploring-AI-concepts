@@ -4,13 +4,13 @@
 
 In this repository, we find:
 
-## 🟤 **TensorFlow Playground** ⚠️
+## 🟤 **TensorFlow Playground** 
 We explore how tuning different hyperparameters affects the performance of a neural network. Specifically, we focus on the impact of increasing training layers and epochs, along with the application of L1 and L2 regularization techniques. 🌀
 
 ## 🟢 **Neural Network Programming**
 In this project, we will see three forms of neural network programming, using TensorFlow, Keras, and Scikit-learn. 🧠
 
-## 🔵 **Cats and Dogs Classifier** ⚠️
+## 🔵 **Cats and Dogs Classifier** 
 Model to classify cats and dogs using a dataset🐱🐶
 
 ## 🔴 **Models of Neural Networks in Scikit-learn**
@@ -56,7 +56,7 @@ Downloaded Database
 - Movie Reviews
 - Keras in NLP
 
-## 🟧**PROYECTOS**⚠️
+## 🟧**PROYECTO**
 
 ## *PENDING TO GO UP* ⚠️
 

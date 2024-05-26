@@ -57,8 +57,10 @@ Downloaded Database
 - Keras in NLP
 
 ## 🟧**PROYECTO**
+Final project exploring the different knowledge acquired throughout the bootcamp, especially the use of CNN in a network for the classification of bees, wasps or other insects
+**DATASET:** [Bee or wasp](https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp)
 
-## *PENDING TO GO UP* ⚠️
+
 
    
 ## ⚪ **Sources:**

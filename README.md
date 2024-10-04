@@ -1,6 +1,6 @@
-# Talento-Tech_IA
+# IA
 
-**Artificial intelligence bootcamp activities** 🤖
+**Learning Artificial Intelligence through activities** 🤖
 
 In this repository, we find:
 
@@ -10,8 +10,6 @@ We explore how tuning different hyperparameters affects the performance of a neu
 ## 🟢 **Neural Network Programming**
 In this project, we will see three forms of neural network programming, using TensorFlow, Keras, and Scikit-learn. 🧠
 
-## 🔵 **Cats and Dogs Classifier** 
-Model to classify cats and dogs using a dataset🐱🐶
 
 ## 🔴 **Models of Neural Networks in Scikit-learn**
 *Library for deep learning projects: Sklearn, Keras*  
@@ -56,10 +54,6 @@ Downloaded Database
 - Movie Reviews
 - Keras in NLP
 
-## 🟧**PROYECTO**
-Final project exploring the different knowledge acquired throughout the bootcamp, especially the use of CNN in a network for the classification of bees, wasps or other insects
-**DATASET:** [Bee or wasp](https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp)
-
 
 
    
@@ -72,4 +66,4 @@ Final project exploring the different knowledge acquired throughout the bootcamp
 - [Dataset Video Games Rating](https://www.kaggle.com/datasets/drahulsingh/list-of-best-selling-ps4-games)
 
 - 
-  *by Tania Cuastuza*
+
